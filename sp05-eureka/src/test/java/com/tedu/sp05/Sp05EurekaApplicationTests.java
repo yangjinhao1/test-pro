@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class Sp05EurekaApplicationTests {
 
 	@Test
-	public void contextLoads(String name) {
+	public void contextLoads(String name1) {
 	}
 
 }
